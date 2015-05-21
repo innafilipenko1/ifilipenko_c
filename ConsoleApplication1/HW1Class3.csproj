@@ -45,6 +45,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Realization\CanYouDrinkAlcohol.cs" />
     <Compile Include="Realization\Dog.cs" />
+    <Compile Include="Realization\EncupsulationProgramm.cs" />
     <Compile Include="Realization\MyDogs.cs" />
   </ItemGroup>
   <ItemGroup>

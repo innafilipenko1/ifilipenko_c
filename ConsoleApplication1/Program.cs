@@ -12,8 +12,11 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            CanYouDrinkAlcohol p = new CanYouDrinkAlcohol();
-            p.StartProgram();
+/*            CanYouDrinkAlcohol p = new CanYouDrinkAlcohol();
+            p.StartProgram();*/
+
+            EncupsulationProgramm ep = new EncupsulationProgramm();
+            ep.SayHello();
 
         }
     }
